@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working on
+
+* React-Profile(https://github.com/declanl2/React-Profile): My Profile in React.
+
+## I’m currently learning
+
+* Currently learning React and TypeScript.
+* Currently working on my profile in React.
+
 <!--
 **declanl2/declanl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
