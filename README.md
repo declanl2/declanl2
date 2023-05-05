@@ -11,6 +11,7 @@
 * Currently learning React and TypeScript.
 * Currently working on my profile in React.
 
+## Thanks for visiting!
 <!--
 **declanl2/declanl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
