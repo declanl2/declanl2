@@ -4,7 +4,7 @@
 
 * React-Profile (https://github.com/declanl2/React-Profile): My Profile in React.
 
-## I’m currently learning
+## 🌱 I’m currently learning
 
 * Currently learning React and TypeScript.
 * Currently working on my profile in React.
