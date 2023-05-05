@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on
 
-* React-Profile(https://github.com/declanl2/React-Profile): My Profile in React.
+* React-Profile (https://github.com/declanl2/React-Profile): My Profile in React.
 
 ## I’m currently learning
 
