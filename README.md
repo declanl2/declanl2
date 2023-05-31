@@ -9,6 +9,7 @@
 ## 🌱 I’m currently learning
 
 * Currently learning React and TypeScript.
+* Currently learning GO
 * Currently working on my profile in React.
 
 ## Thanks for visiting!
