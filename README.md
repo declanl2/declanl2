@@ -9,8 +9,8 @@
 ## 🌱 I’m currently learning
 
 * Google Cloud Platform and Terraform.
-* Currently learning React and TypeScript.
-* Currently learning GO
+* React and TypeScript.
+* GO lang
 * Currently working on my profile in React.
 
 ## Thanks for visiting!
