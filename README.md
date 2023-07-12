@@ -10,7 +10,7 @@
 
 * Google Cloud Platform and Terraform.
 * React and TypeScript.
-* GO lang
+* Golang.
 * Currently working on my profile in React.
 
 ## Thanks for visiting!
