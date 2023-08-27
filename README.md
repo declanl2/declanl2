@@ -4,14 +4,17 @@
 
 ## 🔭 I’m currently working on
 
-* React-Profile (https://github.com/declanl2/React-Profile): My Profile in React.
+* React-Profile: [My Profile in React.](https://github.com/declanl2/React-Profile)
 
 ## 🌱 I’m currently learning
 
 * Cloud Computing - Google Cloud Platform, AWS, Kubernetes and Terraform.
 * React and TypeScript.
 * Golang.
-* Currently working on my profile in React.
+
+## 📫 How to reach me:
+* Email: hi@declanlawson.dev
+* Website: [declanlawson.dev](https://www.declanlawson.dev)
 
 ## Thanks for visiting!
 <!--
